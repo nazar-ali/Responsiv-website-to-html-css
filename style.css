@@ -44,7 +44,7 @@ body {
   grid-area: hero;
   min-height: 400px;
   padding: 50px;
-  background: white url(images/taco.jpg);
+  background: white url(img/taco.jpg);
   background-size: cover;
   background-position: bottom;
   display: flex;
